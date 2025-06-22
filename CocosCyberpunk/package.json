@@ -1,0 +1,14 @@
+{
+  "name": "CocosCyberpunk",
+  "uuid": "ca6d3811-af70-4e71-af84-270d22a51d1f",
+  "creator": {
+    "version": "3.8.6"
+  },
+  "version": "3.8.0",
+  "devDependencies": {
+    "eslint": "^8.28.0",
+    "eslint-plugin-react": "^7.31.11"
+  },
+  "_sourceId": "ad4078a9-dd20-4faa-92fd-b82a039e6180",
+  "_storeId": "d7c6cc5885886e6cc736c6f99cdad645"
+}

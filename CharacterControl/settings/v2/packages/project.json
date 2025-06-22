@@ -1,0 +1,32 @@
+{
+  "__version__": "1.0.6",
+  "physics": {
+    "defaultMaterial": "2933682b-6d5a-4318-9f74-aff71238620b",
+    "fixedTimeStep": 0.0166667,
+    "maxSubSteps": 1,
+    "collisionGroups": [
+      {
+        "index": 1,
+        "name": "RaycastMesh"
+      }
+    ],
+    "collisionMatrix": {
+      "0": 1,
+      "1": 0
+    }
+  },
+  "fbx": {
+    "legacyFbxImporter": {
+      "visible": true
+    }
+  },
+  "general": {
+    "designResolution": {
+      "width": 960,
+      "height": 640
+    }
+  },
+  "script": {
+    "preserveSymlinks": true
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "layer": [
+    {
+      "name": "OBJECT",
+      "value": 1
+    },
+    {
+      "name": "COPY",
+      "value": 2
+    }
+  ],
+  "general": {
+    "designResolution": {
+      "width": 1280,
+      "height": 720
+    },
+    "highQuality": true
+  },
+  "__version__": "1.0.6",
+  "fbx": {
+    "legacyFbxImporter": {
+      "visible": true
+    }
+  },
+  "script": {
+    "preserveSymlinks": true
+  }
+}
